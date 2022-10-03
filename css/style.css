@@ -1,0 +1,19 @@
+.Color-title {
+	color: chartreuse;
+}
+img {
+	margin-bottom: 10px;
+}
+.separator {
+	height: 1px;
+	width: 650px;
+	background: black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+td, th {
+	border: 1px solid black;
+	text-align: center;
+    padding: 5px;
+    width: 200px;
+}
